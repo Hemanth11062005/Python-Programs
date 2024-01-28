@@ -1,0 +1,3 @@
+This is a write command
+This allows us to write in a particular fileThis will add to this file
+This will add to this file
